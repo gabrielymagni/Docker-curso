@@ -1,0 +1,18 @@
+Curso de Docker 
+
+Conteinerização 
+inicializar e manter no ar 
+blocos com aplicações e dependências 
+
+open-source 
+utiliza o SO do hospedeiro para criar containers
+"empacotar o código" 
+
+Virtual machine != docker 
+
+dockerFile -> build dockerImage -> run -> container 
+
+da pra deixar fixo a versão que vc esta usando 
+se o docker cair ele volta automático 
+
+Docker Compose  
